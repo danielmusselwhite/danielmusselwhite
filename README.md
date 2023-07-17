@@ -28,7 +28,7 @@ and design to development and validation.
 [![Version Control and CI/CD](https://skillicons.dev/icons?i=git,gitlab,github,githubactions,jenkins,gradle)](https://skillicons.dev)
 
 #### IDE's
-[![IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,unity)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,unity,androidstudio)](https://skillicons.dev)
 
 #### Other
 [![Other](https://skillicons.dev/icons?i=linux,postman,raspberrypi,tensorflow)](https://skillicons.dev)
