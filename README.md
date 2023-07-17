@@ -8,7 +8,7 @@ Agile Methodologies, and passionate about end-to-end systems engineering- from r
 and design to development and validation.
 
 - BSc in Computer Science Artificial Intelligence - (First Class Honours)
-- MSc in Software Systems Engineering (Distinction Class)
+- MSc in Software Systems Engineering - (Distinction Class)
 - 1 Year of Professional Experience
 
 # Links 📄
