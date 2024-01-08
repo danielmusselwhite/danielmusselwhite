@@ -44,7 +44,7 @@ and design to development and validation.
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=danielmusselwhite&show_icons=true&theme=onedark&layout=compact&hide=prs&card_width=400&hide_rank=true" alt="gh stats">
   </span>
   <span>
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmusselwhite&theme=onedark&layout=compact&langs_count=6&line_height=50&hide=jupyter%20notebook,cmake,Makefile&card_width=240" alt="top langs">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmusselwhite&theme=onedark&layout=compact&langs_count=6&line_height=50&hide=jupyter%20notebook,cmake,Makefile,scss&card_width=240" alt="top langs">
   </span>
   
 </div>
