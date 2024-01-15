@@ -19,7 +19,7 @@ and design to development and validation.
 # My SkillSet ⚒️
 
 #### Languages
-[![Languages: python,powershell,java,cs,c,cpp,ts,js,mysql,dotnet,html](https://skillicons.dev/icons?i=python,powershell,java,cs,c,cpp,ts,js,mysql,dotnet,html)](https://skillicons.dev)
+[![Languages: python,powershell,java,cs,c,cpp,ts,js,mysql,dotnet,html](https://skillicons.dev/icons?i=python,powershell,java,cs,c,cpp,ts,js,mysql,dotnet,html,go)](https://skillicons.dev)
 
 #### Cloud
 [![Cloud: azure,docker](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
