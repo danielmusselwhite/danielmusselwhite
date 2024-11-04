@@ -9,7 +9,7 @@ and design to development and validation.
 
 - BSc in Computer Science Artificial Intelligence - (First Class Honours)
 - MSc in Software Systems Engineering - (Distinction Class)
-- 1 Year of Professional Experience
+- 2 Years of Professional Experience
 
 # Links 📄
 
