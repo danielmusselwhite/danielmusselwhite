@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=44F74E&lines=Hello+I'm+Dan%2C;Intermediate+Software+Engineer+at+GAMIT+Aerospace;Distinction+Class+Masters+of+Science+in+Software+Engineering;First+Class+Bachelors+of+Science+in+Computer+Science+and+Artificial+Intelligence)
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=44F74E&lines=Hello+I'm+Dan%2C;Intermediate+Software+Engineer+at+GAMIT+Aerospace;Distinction+Class+Masters+of+Science+in+Software+Engineering;First+Class+Bachelors+of+Science+in+Computer+Science+and+Artificial+Intelligence)]
 
 
 # About Me 👨🏼‍💻
