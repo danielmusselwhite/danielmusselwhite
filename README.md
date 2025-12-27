@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F74E&width=435&lines=Hello+I'm+Dan%2C;Intermediate+Software+Engineer+at+GAMIT+Aerospace;Distinction+Class+Masters+of+Science+in+Software+Engineering;First+Class+Bachelors+of+Science+in+Computer+Science+and+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F74E&width=435&lines=Hello+I'm+Dan%2C;Software+Engineer+at+GAMIT+Aerospace;MSc.+Software+Engineering;BSc.+Computer+Science)](https://git.io/typing-svg)
 
 # About Me 👨🏼‍💻
 
